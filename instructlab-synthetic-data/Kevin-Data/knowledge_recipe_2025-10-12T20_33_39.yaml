@@ -1,0 +1,18 @@
+datasets:
+- path: node_datasets_2025-10-12T20_33_39/knowledge_technology_computer_science_theory_data_structures_queue_p07.jsonl
+  sampling_size: 1.0
+- path: node_datasets_2025-10-12T20_33_39/knowledge_technology_computer_science_theory_data_structures_stack_p07.jsonl
+  sampling_size: 1.0
+- path: node_datasets_2025-10-12T20_33_39/knowledge_technology_computer_science_theory_algorithms_binary_search_p07.jsonl
+  sampling_size: 1.0
+- path: node_datasets_2025-10-12T20_33_39/knowledge_technology_computer_science_programming_paradigms_functional_recursion_p07.jsonl
+  sampling_size: 1.0
+- path: node_datasets_2025-10-12T20_33_39/knowledge_technology_computer_science_theory_complexity_analysis_big_O_notation_p07.jsonl
+  sampling_size: 1.0
+- path: node_datasets_2025-10-12T20_33_39/knowledge_technology_computer_science_theory_data_structures_linked_list_p07.jsonl
+  sampling_size: 1.0
+metadata:
+  sys_prompt: I am an advanced AI language model designed to assist you with a wide
+    range of tasks and provide helpful, clear, and accurate responses. My primary
+    role is to serve as a chat assistant, engaging in natural, conversational dialogue,
+    answering questions, generating ideas, and offering support across various topics.
